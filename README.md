@@ -161,12 +161,6 @@ The application will be available at:
 
 ---
 
-## 🙌 Credits
-
-Built by [Harsh810](https://harsh810.vercel.app) – Inspired by modern project management tools and collaborative platforms.
-
----
-
 ## 📖 How It Works
 
 1. **Workspace Setup:** Create workspaces for different teams or organizations
